@@ -15,6 +15,7 @@ Olist was facing a **15% drop in customer retention** and rising logistics costs
 - **Retention Rate:** Identified a low repeat-purchase rate of X% (mention your calculated result).
 
 ## 📊 Dashboard Preview
+https://github.com/vermachandni/olist_ecommerce_retention-analysis-/blob/main/Screenshot%202026-04-08%20120804.png
 
 ## 🏃 How to Run
 1. Upload the Olist datasets from Kaggle.
