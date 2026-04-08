@@ -19,4 +19,4 @@ https://github.com/vermachandni/olist_ecommerce_retention-analysis-/blob/main/Sc
 
 ## 🏃 How to Run
 1. Upload the Olist datasets from Kaggle.
-2. Run the `olist_analysis.ipynb` notebook in Google Colab or Jupyter.
+2. Run the `Untitled2.ipynb` notebook in Google Colab or Jupyter.
